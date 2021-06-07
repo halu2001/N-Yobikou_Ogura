@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<feed xmlns:im="http://itunes.apple.com/rss" xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+		<id>https://itunes.apple.com/jp/rss/topsongs/limit=10/xml</id><title>iTunes Store: トップソング</title><updated>2021-01-27T15:49:00-07:00</updated><link rel="alternate" type="text/html" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=jp&amp;id=1000&amp;popId=1"/><link rel="self" href="https://itunes.apple.com/jp/rss/topsongs/limit=10/xml"/><icon>http://itunes.apple.com/favicon.ico</icon><author><name>iTunes Store</name><uri>http://www.apple.com/jp/itunes/</uri></author><rights>Copyright 2008 Apple Inc.</rights>
+		
+			<entry>
+				<updated>2021-01-27T15:49:00-07:00</updated>
+				
+					<id im:id="1549803965">https://music.apple.com/jp/album/living-on-the-edge/1549803964?i=1549803965&amp;uo=2</id>
+				
+					<title>Living on the edge - ALKALOID/天城 一彩(CV.梶原 岳人)、白鳥 藍良(CV.天﨑 滉平)、礼瀬 マヨイ(CV.重松 千晴)、風早 巽(CV.中澤 まさとも)</title>
+				
+					
+				
+					<im:name>Living on the edge</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/living-on-the-edge/1549803964?i=1549803965&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/cd/51/81/cd51817e-3734-0eeb-ff59-fc5808524b55/mzaf_13324435122991670946.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/alkaloid/1413566414?uo=2">ALKALOID/天城 一彩(CV.梶原 岳人)、白鳥 藍良(CV.天﨑 滉平)、礼瀬 マヨイ(CV.重松 千晴)、風早 巽(CV.中澤 まさとも)</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/9d/f9/4d9df9eb-bd6f-1744-0ebe-473abd1fa826/095152_J.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/4d/9d/f9/4d9df9eb-bd6f-1744-0ebe-473abd1fa826/095152_J.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/4d/9d/f9/4d9df9eb-bd6f-1744-0ebe-473abd1fa826/095152_J.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2021 Frontier Works Inc.・Happy Elements K.K</rights>
+				
+					<im:releaseDate label="2021年1月27日 ">2021-01-27T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>あんさんぶるスターズ!! ESアイドルソング season1 ALKALOID - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E3%81%82%E3%82%93%E3%81%95%E3%82%93%E3%81%B6%E3%82%8B%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA-es%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%BD%E3%83%B3%E3%82%B0-season1-alkaloid-single/1549803964?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/living-on-the-edge/1549803964?i=1549803965&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;ALKALOID/天城 一彩(CV.梶原 岳人)、白鳥 藍良(CV.天﨑 滉平)、礼瀬 マヨイ(CV.重松 千晴)、風早 巽(CV.中澤 まさとも) - Living on the edge アートワーク&quot; src=&quot;https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/4d/9d/f9/4d9df9eb-bd6f-1744-0ebe-473abd1fa826/095152_J.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/living-on-the-edge/1549803964?i=1549803965&amp;uo=2&quot;&gt;Living on the edge&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E3%81%82%E3%82%93%E3%81%95%E3%82%93%E3%81%B6%E3%82%8B%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA-es%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%82%BD%E3%83%B3%E3%82%B0-season1-alkaloid-single/1549803964?uo=2&quot;&gt;あんさんぶるスターズ!! ESアイドルソング season1 ALKALOID - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/alkaloid/1413566414?uo=2&quot;&gt;ALKALOID/天城 一彩(CV.梶原 岳人)、白鳥 藍良(CV.天﨑 滉平)、礼瀬 マヨイ(CV.重松 千晴)、風早 巽(CV.中澤 まさとも)&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2021年1月27日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2021 Frontier Works Inc.・Happy Elements K.K&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2021-01-27T15:49:00-07:00</updated>
+				
+					<id im:id="1547210425">https://music.apple.com/jp/album/%E5%84%AA%E3%81%97%E3%81%84%E5%BD%97%E6%98%9F/1547210421?i=1547210425&amp;uo=2</id>
+				
+					<title>優しい彗星 - YOASOBI</title>
+				
+					
+				
+					<im:name>優しい彗星</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E5%84%AA%E3%81%97%E3%81%84%E5%BD%97%E6%98%9F/1547210421?i=1547210425&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/b8/fb/aa/b8fbaae0-80cd-0375-4541-ec9d525d4d0d/mzaf_2521156266270854702.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/yoasobi/1490256993?uo=2">YOASOBI</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is3-ssl.mzstatic.com/image/thumb/Music114/v4/54/7f/8a/547f8a28-277b-abca-e0ae-6cd41ca2b8e6/195497842889.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/54/7f/8a/547f8a28-277b-abca-e0ae-6cd41ca2b8e6/195497842889.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/54/7f/8a/547f8a28-277b-abca-e0ae-6cd41ca2b8e6/195497842889.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2021 YOASOBI</rights>
+				
+					<im:releaseDate label="2021年1月20日 ">2021-01-20T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>優しい彗星 - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E5%84%AA%E3%81%97%E3%81%84%E5%BD%97%E6%98%9F-single/1547210421?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E5%84%AA%E3%81%97%E3%81%84%E5%BD%97%E6%98%9F/1547210421?i=1547210425&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;YOASOBI - 優しい彗星 アートワーク&quot; src=&quot;https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/54/7f/8a/547f8a28-277b-abca-e0ae-6cd41ca2b8e6/195497842889.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E5%84%AA%E3%81%97%E3%81%84%E5%BD%97%E6%98%9F/1547210421?i=1547210425&amp;uo=2&quot;&gt;優しい彗星&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E5%84%AA%E3%81%97%E3%81%84%E5%BD%97%E6%98%9F-single/1547210421?uo=2&quot;&gt;優しい彗星 - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/yoasobi/1490256993?uo=2&quot;&gt;YOASOBI&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2021年1月20日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2021 YOASOBI&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2021-01-27T15:49:00-07:00</updated>
+				
+					<id im:id="1535123742">https://music.apple.com/jp/album/%E3%81%86%E3%81%A3%E3%81%9B%E3%81%87%E3%82%8F/1535123741?i=1535123742&amp;uo=2</id>
+				
+					<title>うっせぇわ - Ado</title>
+				
+					
+				
+					<im:name>うっせぇわ</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E3%81%86%E3%81%A3%E3%81%9B%E3%81%87%E3%82%8F/1535123741?i=1535123742&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/c9/7c/02/c97c02af-116f-de0b-b75b-d1a3b67909e9/mzaf_7311613628879573525.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/ado/1492604670?uo=2">Ado</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/d5/5f/9d/d55f9d75-bd0a-b8e8-8061-48ed3283dfab/20UMGIM76771.rgb.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/d5/5f/9d/d55f9d75-bd0a-b8e8-8061-48ed3283dfab/20UMGIM76771.rgb.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/d5/5f/9d/d55f9d75-bd0a-b8e8-8061-48ed3283dfab/20UMGIM76771.rgb.jpg/170x170bb.png</im:image>
+				
+					<rights>A Virgin Music release; &#8471; 2020 UNIVERSAL MUSIC LLC</rights>
+				
+					<im:releaseDate label="2020年10月23日 ">2020-10-23T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>うっせぇわ - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/usseewa-single/1535123741?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E3%81%86%E3%81%A3%E3%81%9B%E3%81%87%E3%82%8F/1535123741?i=1535123742&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Ado - うっせぇわ アートワーク&quot; src=&quot;https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/d5/5f/9d/d55f9d75-bd0a-b8e8-8061-48ed3283dfab/20UMGIM76771.rgb.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E3%81%86%E3%81%A3%E3%81%9B%E3%81%87%E3%82%8F/1535123741?i=1535123742&amp;uo=2&quot;&gt;うっせぇわ&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/usseewa-single/1535123741?uo=2&quot;&gt;うっせぇわ - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/ado/1492604670?uo=2&quot;&gt;Ado&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2020年10月23日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; A Virgin Music release; ℗ 2020 UNIVERSAL MUSIC LLC&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2021-01-27T15:49:00-07:00</updated>
+				
+					<id im:id="1547569125">https://music.apple.com/jp/album/seize-the-day/1547569121?i=1547569125&amp;uo=2</id>
+				
+					<title>Seize The Day - 亜咲花</title>
+				
+					
+				
+					<im:name>Seize The Day</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/seize-the-day/1547569121?i=1547569125&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/67/6a/cf/676acf20-f2e8-b8f2-9150-15c62b5e7633/mzaf_16194876036281039989.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/%E4%BA%9C%E5%92%B2%E8%8A%B1/1154905403?uo=2">亜咲花</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/91/39/94/913994e0-4781-1177-e7c4-3f41bcd3d26a/094670_J.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/91/39/94/913994e0-4781-1177-e7c4-3f41bcd3d26a/094670_J.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/91/39/94/913994e0-4781-1177-e7c4-3f41bcd3d26a/094670_J.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; MAGES.</rights>
+				
+					<im:releaseDate label="2021年1月27日 ">2021-01-27T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Seize The Day (TVアニメ『ゆるキャン△ SEASON2』OPテーマ) - EP</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/seize-the-day-tv%E3%82%A2%E3%83%8B%E3%83%A1-%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3-season2-op%E3%83%86%E3%83%BC%E3%83%9E-ep/1547569121?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/seize-the-day/1547569121?i=1547569125&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;亜咲花 - Seize The Day アートワーク&quot; src=&quot;https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/91/39/94/913994e0-4781-1177-e7c4-3f41bcd3d26a/094670_J.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/seize-the-day/1547569121?i=1547569125&amp;uo=2&quot;&gt;Seize The Day&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/seize-the-day-tv%E3%82%A2%E3%83%8B%E3%83%A1-%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3-season2-op%E3%83%86%E3%83%BC%E3%83%9E-ep/1547569121?uo=2&quot;&gt;Seize The Day (TVアニメ『ゆるキャン△ SEASON2』OPテーマ) - EP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/%E4%BA%9C%E5%92%B2%E8%8A%B1/1154905403?uo=2&quot;&gt;亜咲花&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2021年1月27日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ MAGES.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2021-01-27T15:49:00-07:00</updated>
+				
+					<id im:id="1550573539">https://music.apple.com/jp/album/suspect/1550573538?i=1550573539&amp;uo=2</id>
+				
+					<title>Suspect - hololive IDOL PROJECT</title>
+				
+					
+				
+					<im:name>Suspect</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/suspect/1550573538?i=1550573539&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="7" term="Electronic" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%83%83%E3%82%AF/id7?uo=2" label="エレクトロニック"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="http://a640.phobos.apple.com/us/r30/Music/v4/00/00/00/00000000-0000-0000-0000-845a9b3f577b/5s.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/hololive-idol-project/1479292202?uo=2">hololive IDOL PROJECT</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is5-ssl.mzstatic.com/image/thumb/Music114/v4/e2/2d/43/e22d435c-3402-6b78-00fe-494c39b785c3/4580625826422_art.png/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/e2/2d/43/e22d435c-3402-6b78-00fe-494c39b785c3/4580625826422_art.png/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/e2/2d/43/e22d435c-3402-6b78-00fe-494c39b785c3/4580625826422_art.png/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2021 cover corp.</rights>
+				
+					<im:collection><im:name>Suspect - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/suspect-single/1550573538?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/suspect/1550573538?i=1550573539&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;hololive IDOL PROJECT - Suspect アートワーク&quot; src=&quot;https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/e2/2d/43/e22d435c-3402-6b78-00fe-494c39b785c3/4580625826422_art.png/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/suspect/1550573538?i=1550573539&amp;uo=2&quot;&gt;Suspect&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/suspect-single/1550573538?uo=2&quot;&gt;Suspect - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/hololive-idol-project/1479292202?uo=2&quot;&gt;hololive IDOL PROJECT&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%83%83%E3%82%AF/id7?uo=2&quot;&gt;エレクトロニック&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2021 cover corp.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2021-01-27T15:49:00-07:00</updated>
+				
+					<id im:id="1549804065">https://music.apple.com/jp/album/midnight-butlers/1549804063?i=1549804065&amp;uo=2</id>
+				
+					<title>Midnight Butlers - XXVeil/遊木 真(CV.森久保 祥太郎)、瀬名 泉(CV.伊藤 マサミ)、仁兎 なずな(CV.米内 佑希)、神崎 颯馬(CV.神永 圭佑)、HiMERU(CV.笠間 淳)</title>
+				
+					
+				
+					<im:name>Midnight Butlers</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/midnight-butlers/1549804063?i=1549804065&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/f9/85/f6/f985f6eb-0f75-92b2-04b5-f6499b711729/mzaf_10392219040574701751.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/xxveil/1540876833?uo=2">XXVeil/遊木 真(CV.森久保 祥太郎)、瀬名 泉(CV.伊藤 マサミ)、仁兎 なずな(CV.米内 佑希)、神崎 颯馬(CV.神永 圭佑)、HiMERU(CV.笠間 淳)</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/a2/34/3f/a2343fd8-8fb3-7093-fbbc-dd2436667cf5/095154_J.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/a2/34/3f/a2343fd8-8fb3-7093-fbbc-dd2436667cf5/095154_J.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/a2/34/3f/a2343fd8-8fb3-7093-fbbc-dd2436667cf5/095154_J.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2021 Frontier Works Inc.・Happy Elements K.K</rights>
+				
+					<im:releaseDate label="2021年1月27日 ">2021-01-27T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>あんさんぶるスターズ!! シャッフルユニットソング コレクション vol.01 - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E3%81%82%E3%82%93%E3%81%95%E3%82%93%E3%81%B6%E3%82%8B%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA-%E3%82%B7%E3%83%A3%E3%83%83%E3%83%95%E3%83%AB%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%E3%82%BD%E3%83%B3%E3%82%B0-%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-vol-01-single/1549804063?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/midnight-butlers/1549804063?i=1549804065&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;XXVeil/遊木 真(CV.森久保 祥太郎)、瀬名 泉(CV.伊藤 マサミ)、仁兎 なずな(CV.米内 佑希)、神崎 颯馬(CV.神永 圭佑)、HiMERU(CV.笠間 淳) - Midnight Butlers アートワーク&quot; src=&quot;https://is3-ssl.mzstatic.com/image/thumb/Music124/v4/a2/34/3f/a2343fd8-8fb3-7093-fbbc-dd2436667cf5/095154_J.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/midnight-butlers/1549804063?i=1549804065&amp;uo=2&quot;&gt;Midnight Butlers&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E3%81%82%E3%82%93%E3%81%95%E3%82%93%E3%81%B6%E3%82%8B%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA-%E3%82%B7%E3%83%A3%E3%83%83%E3%83%95%E3%83%AB%E3%83%A6%E3%83%8B%E3%83%83%E3%83%88%E3%82%BD%E3%83%B3%E3%82%B0-%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3-vol-01-single/1549804063?uo=2&quot;&gt;あんさんぶるスターズ!! シャッフルユニットソング コレクション vol.01 - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/xxveil/1540876833?uo=2&quot;&gt;XXVeil/遊木 真(CV.森久保 祥太郎)、瀬名 泉(CV.伊藤 マサミ)、仁兎 なずな(CV.米内 佑希)、神崎 颯馬(CV.神永 圭佑)、HiMERU(CV.笠間 淳)&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2021年1月27日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2021 Frontier Works Inc.・Happy Elements K.K&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2021-01-27T15:49:00-07:00</updated>
+				
+					<id im:id="1544083979">https://music.apple.com/jp/album/%E6%80%AA%E7%89%A9/1544083976?i=1544083979&amp;uo=2</id>
+				
+					<title>怪物 - YOASOBI</title>
+				
+					
+				
+					<im:name>怪物</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E6%80%AA%E7%89%A9/1544083976?i=1544083979&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/28/74/f6/2874f6b3-c634-0b50-6913-7940cb1edc34/mzaf_11214808363395058375.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/yoasobi/1490256993?uo=2">YOASOBI</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/d3/6d/fb/d36dfb9c-8078-75ae-db8f-02a973b6c9ef/195497732630.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/d3/6d/fb/d36dfb9c-8078-75ae-db8f-02a973b6c9ef/195497732630.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/d3/6d/fb/d36dfb9c-8078-75ae-db8f-02a973b6c9ef/195497732630.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 YOASOBI</rights>
+				
+					<im:releaseDate label="2021年1月6日 ">2021-01-06T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>怪物 - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E6%80%AA%E7%89%A9-single/1544083976?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E6%80%AA%E7%89%A9/1544083976?i=1544083979&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;YOASOBI - 怪物 アートワーク&quot; src=&quot;https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/d3/6d/fb/d36dfb9c-8078-75ae-db8f-02a973b6c9ef/195497732630.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E6%80%AA%E7%89%A9/1544083976?i=1544083979&amp;uo=2&quot;&gt;怪物&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E6%80%AA%E7%89%A9-single/1544083976?uo=2&quot;&gt;怪物 - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/yoasobi/1490256993?uo=2&quot;&gt;YOASOBI&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2021年1月6日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 YOASOBI&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2021-01-27T15:49:00-07:00</updated>
+				
+					<id im:id="1490256995">https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B/1490256978?i=1490256995&amp;uo=2</id>
+				
+					<title>夜に駆ける - YOASOBI</title>
+				
+					
+				
+					<im:name>夜に駆ける</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B/1490256978?i=1490256995&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/e8/46/a5/e846a566-8bf8-9207-b0e2-f54f3afe52ea/mzaf_18045774889345394411.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/yoasobi/1490256993?uo=2">YOASOBI</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/ba/18/25/ba1825a0-59da-50ce-2ffb-f19043eafa80/194491717186.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/ba/18/25/ba1825a0-59da-50ce-2ffb-f19043eafa80/194491717186.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/ba/18/25/ba1825a0-59da-50ce-2ffb-f19043eafa80/194491717186.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2019 YOASOBI</rights>
+				
+					<im:releaseDate label="2019年12月15日 ">2019-12-15T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>夜に駆ける - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B-single/1490256978?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B/1490256978?i=1490256995&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;YOASOBI - 夜に駆ける アートワーク&quot; src=&quot;https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/ba/18/25/ba1825a0-59da-50ce-2ffb-f19043eafa80/194491717186.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B/1490256978?i=1490256995&amp;uo=2&quot;&gt;夜に駆ける&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E5%A4%9C%E3%81%AB%E9%A7%86%E3%81%91%E3%82%8B-single/1490256978?uo=2&quot;&gt;夜に駆ける - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/yoasobi/1490256993?uo=2&quot;&gt;YOASOBI&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2019年12月15日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2019 YOASOBI&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2021-01-27T15:49:00-07:00</updated>
+				
+					<id im:id="1534620183">https://music.apple.com/jp/album/%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC/1534620182?i=1534620183&amp;uo=2</id>
+				
+					<title>ドライフラワー - 優里</title>
+				
+					
+				
+					<im:name>ドライフラワー</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC/1534620182?i=1534620183&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="21" term="Rock" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%83%AD%E3%83%83%E3%82%AF/id21?uo=2" label="ロック"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview124/v4/96/61/02/966102fe-f515-28a4-5432-6f697ff4bdb8/mzaf_14202027333409377127.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/%E5%84%AA%E9%87%8C/1489331027?uo=2">優里</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/e4/20/4b/e4204bbc-9660-887e-bef6-1c641fdcdd05/4547366478655.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/e4/20/4b/e4204bbc-9660-887e-bef6-1c641fdcdd05/4547366478655.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/e4/20/4b/e4204bbc-9660-887e-bef6-1c641fdcdd05/4547366478655.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2020 Sony Music Labels Inc.</rights>
+				
+					<im:releaseDate label="2020年10月25日 ">2020-10-25T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>ドライフラワー - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/dry-flower-single/1534620182?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC/1534620182?i=1534620183&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;優里 - ドライフラワー アートワーク&quot; src=&quot;https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/e4/20/4b/e4204bbc-9660-887e-bef6-1c641fdcdd05/4547366478655.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E3%83%89%E3%83%A9%E3%82%A4%E3%83%95%E3%83%A9%E3%83%AF%E3%83%BC/1534620182?i=1534620183&amp;uo=2&quot;&gt;ドライフラワー&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/dry-flower-single/1534620182?uo=2&quot;&gt;ドライフラワー - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/%E5%84%AA%E9%87%8C/1489331027?uo=2&quot;&gt;優里&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%83%AD%E3%83%83%E3%82%AF/id21?uo=2&quot;&gt;ロック&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2020年10月25日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2020 Sony Music Labels Inc.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2021-01-27T15:49:00-07:00</updated>
+				
+					<id im:id="1547569106">https://music.apple.com/jp/album/%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%A8%E3%81%AA%E3%82%8A/1547569105?i=1547569106&amp;uo=2</id>
+				
+					<title>はるのとなり - 佐々木恵梨</title>
+				
+					
+				
+					<im:name>はるのとなり</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%A8%E3%81%AA%E3%82%8A/1547569105?i=1547569106&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/e7/ea/bf/e7eabfab-e09d-332c-ceda-636cd36b8cc2/mzaf_2327171092550429599.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/%E4%BD%90%E3%80%85%E6%9C%A8%E6%81%B5%E6%A2%A8/1004521581?uo=2">佐々木恵梨</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/6c/c4/ad/6cc4ad21-719f-d789-d694-6b11dc2b23f9/094667_J.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/6c/c4/ad/6cc4ad21-719f-d789-d694-6b11dc2b23f9/094667_J.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/6c/c4/ad/6cc4ad21-719f-d789-d694-6b11dc2b23f9/094667_J.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; MAGES.</rights>
+				
+					<im:releaseDate label="2021年1月27日 ">2021-01-27T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>はるのとなり (TVアニメ『ゆるキャン△ SEASON2』EDテーマ) - EP</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%A8%E3%81%AA%E3%82%8A-tv%E3%82%A2%E3%83%8B%E3%83%A1-%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3-season2-ed%E3%83%86%E3%83%BC%E3%83%9E-ep/1547569105?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%A8%E3%81%AA%E3%82%8A/1547569105?i=1547569106&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;佐々木恵梨 - はるのとなり アートワーク&quot; src=&quot;https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/6c/c4/ad/6cc4ad21-719f-d789-d694-6b11dc2b23f9/094667_J.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%A8%E3%81%AA%E3%82%8A/1547569105?i=1547569106&amp;uo=2&quot;&gt;はるのとなり&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E3%81%AF%E3%82%8B%E3%81%AE%E3%81%A8%E3%81%AA%E3%82%8A-tv%E3%82%A2%E3%83%8B%E3%83%A1-%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%B3-season2-ed%E3%83%86%E3%83%BC%E3%83%9E-ep/1547569105?uo=2&quot;&gt;はるのとなり (TVアニメ『ゆるキャン△ SEASON2』EDテーマ) - EP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/%E4%BD%90%E3%80%85%E6%9C%A8%E6%81%B5%E6%A2%A8/1004521581?uo=2&quot;&gt;佐々木恵梨&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2021年1月27日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ MAGES.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+	</feed>

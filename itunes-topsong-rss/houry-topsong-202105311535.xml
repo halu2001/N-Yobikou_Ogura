@@ -1,0 +1,896 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<feed xmlns:im="http://itunes.apple.com/rss" xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+		<id>https://mzstoreservices-int.dslb.apple.com/jp/rss/topsongs/limit=10/xml</id><title>iTunes Store: トップソング</title><updated>2021-05-30T22:57:02-07:00</updated><link rel="alternate" type="text/html" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=jp&amp;id=1000&amp;popId=1"/><link rel="self" href="https://mzstoreservices-int.dslb.apple.com/jp/rss/topsongs/limit=10/xml"/><icon>http://itunes.apple.com/favicon.ico</icon><author><name>iTunes Store</name><uri>http://www.apple.com/jp/itunes/</uri></author><rights>Copyright 2008 Apple Inc.</rights>
+		
+			<entry>
+				<updated>2021-05-30T22:57:02-07:00</updated>
+				
+					<id im:id="1568298726">https://music.apple.com/jp/album/%E3%83%9F%E3%83%A9%E3%82%A4/1568298514?i=1568298726&amp;uo=2</id>
+				
+					<title>ミライ - L&#39;Arc〜en〜Ciel</title>
+				
+					
+				
+					<im:name>ミライ</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E3%83%9F%E3%83%A9%E3%82%A4/1568298514?i=1568298726&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="21" term="Rock" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%83%AD%E3%83%83%E3%82%AF/id21?uo=2" label="ロック"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/16/fe/54/16fe54bf-2f31-9215-b05a-220c00e8dbeb/mzaf_14820680761316418875.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/larc-en-ciel/80486557?uo=2">L&#39;Arc〜en〜Ciel</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/2a/e3/96/2ae39673-1177-f5f0-5c1c-78fd6d46bfca/4547366513011.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/2a/e3/96/2ae39673-1177-f5f0-5c1c-78fd6d46bfca/4547366513011.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/2a/e3/96/2ae39673-1177-f5f0-5c1c-78fd6d46bfca/4547366513011.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2021 Sony Music Labels Inc.</rights>
+				
+					<im:collection><im:name>ミライ - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E3%83%9F%E3%83%A9%E3%82%A4-single/1568298514?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E3%83%9F%E3%83%A9%E3%82%A4/1568298514?i=1568298726&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;L'Arc〜en〜Ciel - ミライ アートワーク&quot; src=&quot;https://is4-ssl.mzstatic.com/image/thumb/Music115/v4/2a/e3/96/2ae39673-1177-f5f0-5c1c-78fd6d46bfca/4547366513011.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E3%83%9F%E3%83%A9%E3%82%A4/1568298514?i=1568298726&amp;uo=2&quot;&gt;ミライ&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E3%83%9F%E3%83%A9%E3%82%A4-single/1568298514?uo=2&quot;&gt;ミライ - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/larc-en-ciel/80486557?uo=2&quot;&gt;L'Arc〜en〜Ciel&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%83%AD%E3%83%83%E3%82%AF/id21?uo=2&quot;&gt;ロック&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2021 Sony Music Labels Inc.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2021-05-30T22:57:02-07:00</updated>
+				
+					<id im:id="1568993237">https://music.apple.com/jp/album/pale-blue/1568993234?i=1568993237&amp;uo=2</id>
+				
+					<title>Pale Blue - 米津玄師</title>
+				
+					
+				
+					<im:name>Pale Blue</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/pale-blue/1568993234?i=1568993237&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/f3/81/43/f381434d-d460-8062-8c1e-7932e901b891/mzaf_11956058633044091100.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/530814268?uo=2">米津玄師</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is5-ssl.mzstatic.com/image/thumb/Music115/v4/91/01/f1/9101f121-d6bc-40dd-2dfe-baf6bdd5b872/4547366515183.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/91/01/f1/9101f121-d6bc-40dd-2dfe-baf6bdd5b872/4547366515183.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/91/01/f1/9101f121-d6bc-40dd-2dfe-baf6bdd5b872/4547366515183.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2021 Sony Music Labels Inc.</rights>
+				
+					<im:collection><im:name>Pale Blue - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/pale-blue-single/1568993234?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/pale-blue/1568993234?i=1568993237&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;米津玄師 - Pale Blue アートワーク&quot; src=&quot;https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/91/01/f1/9101f121-d6bc-40dd-2dfe-baf6bdd5b872/4547366515183.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/pale-blue/1568993234?i=1568993237&amp;uo=2&quot;&gt;Pale Blue&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/pale-blue-single/1568993234?uo=2&quot;&gt;Pale Blue - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/530814268?uo=2&quot;&gt;米津玄師&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2021 Sony Music Labels Inc.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2021-05-30T22:57:02-07:00</updated>
+				
+					<id im:id="1567164474">https://music.apple.com/jp/album/oh-my-god/1567164472?i=1567164474&amp;uo=2</id>
+				
+					<title>OH MY GOD - SHHis</title>
+				
+					
+				
+					<im:name>OH MY GOD</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/oh-my-god/1567164472?i=1567164474&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/09/51/3a/09513afe-695c-f9d7-bd5b-7d8df5db650b/mzaf_17606422833515543404.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/shhis/1567164473?uo=2">SHHis</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/3c/97/a8/3c97a8b5-d9ce-8ac0-c35a-7fbbcd63d7d4/LZC-1887.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/3c/97/a8/3c97a8b5-d9ce-8ac0-c35a-7fbbcd63d7d4/LZC-1887.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/97/a8/3c97a8b5-d9ce-8ac0-c35a-7fbbcd63d7d4/LZC-1887.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; Lantis</rights>
+				
+					<im:releaseDate label="2021年5月30日 ">2021-05-30T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>OH MY GOD - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/oh-my-god-single/1567164472?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/oh-my-god/1567164472?i=1567164474&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;SHHis - OH MY GOD アートワーク&quot; src=&quot;https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/3c/97/a8/3c97a8b5-d9ce-8ac0-c35a-7fbbcd63d7d4/LZC-1887.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/oh-my-god/1567164472?i=1567164474&amp;uo=2&quot;&gt;OH MY GOD&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/oh-my-god-single/1567164472?uo=2&quot;&gt;OH MY GOD - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/shhis/1567164473?uo=2&quot;&gt;SHHis&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2021年5月30日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ Lantis&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2021-05-30T22:57:02-07:00</updated>
+				
+					<id im:id="1566811795">https://music.apple.com/jp/album/%E6%80%AA%E7%9B%97/1566811794?i=1566811795&amp;uo=2</id>
+				
+					<title>怪盗 - back number</title>
+				
+					
+				
+					<im:name>怪盗</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E6%80%AA%E7%9B%97/1566811794?i=1566811795&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/eb/53/97/eb539752-8526-dd7a-e006-48a5544b3ca4/mzaf_14287412132148384920.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/back-number/302361237?uo=2">back number</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/48/1c/5a/481c5a65-8e66-28b7-6ee7-4baec316165e/21UMGIM27264.rgb.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/48/1c/5a/481c5a65-8e66-28b7-6ee7-4baec316165e/21UMGIM27264.rgb.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/48/1c/5a/481c5a65-8e66-28b7-6ee7-4baec316165e/21UMGIM27264.rgb.jpg/170x170bb.png</im:image>
+				
+					<rights>A UNIVERSAL SIGMA release; &#8471; 2021 UNIVERSAL MUSIC LLC</rights>
+				
+					<im:releaseDate label="2021年5月24日 ">2021-05-24T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>怪盗 - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/phantom-thief-single/1566811794?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E6%80%AA%E7%9B%97/1566811794?i=1566811795&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;back number - 怪盗 アートワーク&quot; src=&quot;https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/48/1c/5a/481c5a65-8e66-28b7-6ee7-4baec316165e/21UMGIM27264.rgb.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E6%80%AA%E7%9B%97/1566811794?i=1566811795&amp;uo=2&quot;&gt;怪盗&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/phantom-thief-single/1566811794?uo=2&quot;&gt;怪盗 - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/back-number/302361237?uo=2&quot;&gt;back number&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2021年5月24日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; A UNIVERSAL SIGMA release; ℗ 2021 UNIVERSAL MUSIC LLC&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2021-05-30T22:57:02-07:00</updated>
+				
+					<id im:id="1569004619">https://music.apple.com/jp/album/broken-heart-of-gold/1569004618?i=1569004619&amp;uo=2</id>
+				
+					<title>Broken Heart of Gold - ONE OK ROCK</title>
+				
+					
+				
+					<im:name>Broken Heart of Gold</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/broken-heart-of-gold/1569004618?i=1569004619&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="21" term="Rock" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%83%AD%E3%83%83%E3%82%AF/id21?uo=2" label="ロック"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b3/57/ff/b357ff1c-fdc5-1b07-8851-d01a5228c607/mzaf_7288310132035471701.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/one-ok-rock/252239625?uo=2">ONE OK ROCK</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/d0/70/44/d07044f8-5411-5c4f-da12-69d2a1b20fe1/075679781079.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/d0/70/44/d07044f8-5411-5c4f-da12-69d2a1b20fe1/075679781079.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/d0/70/44/d07044f8-5411-5c4f-da12-69d2a1b20fe1/075679781079.jpg/170x170bb.png</im:image>
+				
+					<rights>A Fueled By Ramen release, &#8471; 2021 Elektra Music Group Inc.</rights>
+				
+					<im:releaseDate label="2021年5月27日 ">2021-05-27T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Broken Heart of Gold - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/broken-heart-of-gold-single/1569004618?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/broken-heart-of-gold/1569004618?i=1569004619&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;ONE OK ROCK - Broken Heart of Gold アートワーク&quot; src=&quot;https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/d0/70/44/d07044f8-5411-5c4f-da12-69d2a1b20fe1/075679781079.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/broken-heart-of-gold/1569004618?i=1569004619&amp;uo=2&quot;&gt;Broken Heart of Gold&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/broken-heart-of-gold-single/1569004618?uo=2&quot;&gt;Broken Heart of Gold - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/one-ok-rock/252239625?uo=2&quot;&gt;ONE OK ROCK&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%83%AD%E3%83%83%E3%82%AF/id21?uo=2&quot;&gt;ロック&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2021年5月27日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; A Fueled By Ramen release, ℗ 2021 Elektra Music Group Inc.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2021-05-30T22:57:02-07:00</updated>
+				
+					<id im:id="1568033347">https://music.apple.com/jp/album/butter/1568033015?i=1568033347&amp;uo=2</id>
+				
+					<title>Butter - BTS</title>
+				
+					
+				
+					<im:name>Butter</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/butter/1568033015?i=1568033347&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="51" term="K-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%83%9D%E3%83%83%E3%83%97-k-pop/id51?uo=2" label="K-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/c9/e3/d2/c9e3d2c5-2c93-2fb0-c758-f54062360c87/mzaf_1979265270672050065.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/bts/883131348?uo=2">BTS</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/b1/54/7d/b1547da3-a512-ff81-7218-47b5b06df36c/21UMGIM42865.rgb.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/b1/54/7d/b1547da3-a512-ff81-7218-47b5b06df36c/21UMGIM42865.rgb.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/b1/54/7d/b1547da3-a512-ff81-7218-47b5b06df36c/21UMGIM42865.rgb.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2021 BIGHIT MUSIC</rights>
+				
+					<im:releaseDate label="2021年5月21日 ">2021-05-21T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Butter - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/butter-single/1568033015?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/butter/1568033015?i=1568033347&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;BTS - Butter アートワーク&quot; src=&quot;https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/b1/54/7d/b1547da3-a512-ff81-7218-47b5b06df36c/21UMGIM42865.rgb.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/butter/1568033015?i=1568033347&amp;uo=2&quot;&gt;Butter&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/butter-single/1568033015?uo=2&quot;&gt;Butter - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/bts/883131348?uo=2&quot;&gt;BTS&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%83%9D%E3%83%83%E3%83%97-k-pop/id51?uo=2&quot;&gt;K-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2021年5月21日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2021 BIGHIT MUSIC&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2021-05-30T22:57:02-07:00</updated>
+				
+					<id im:id="1564444512">https://music.apple.com/jp/album/%E3%82%82%E3%81%86%E5%B0%91%E3%81%97%E3%81%A0%E3%81%91/1564444109?i=1564444512&amp;uo=2</id>
+				
+					<title>もう少しだけ - YOASOBI</title>
+				
+					
+				
+					<im:name>もう少しだけ</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E3%82%82%E3%81%86%E5%B0%91%E3%81%97%E3%81%A0%E3%81%91/1564444109?i=1564444512&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/2a/29/9e/2a299ed3-15af-7442-af89-076011ae06ad/mzaf_14108541686281494394.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/yoasobi/1490256993?uo=2">YOASOBI</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/eb/ea/9c/ebea9c38-ac53-3b61-b87a-04368bc09009/196006562731.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/eb/ea/9c/ebea9c38-ac53-3b61-b87a-04368bc09009/196006562731.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/eb/ea/9c/ebea9c38-ac53-3b61-b87a-04368bc09009/196006562731.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2021 YOASOBI</rights>
+				
+					<im:releaseDate label="2021年5月10日 ">2021-05-10T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>もう少しだけ - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E3%82%82%E3%81%86%E5%B0%91%E3%81%97%E3%81%A0%E3%81%91-single/1564444109?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E3%82%82%E3%81%86%E5%B0%91%E3%81%97%E3%81%A0%E3%81%91/1564444109?i=1564444512&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;YOASOBI - もう少しだけ アートワーク&quot; src=&quot;https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/eb/ea/9c/ebea9c38-ac53-3b61-b87a-04368bc09009/196006562731.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E3%82%82%E3%81%86%E5%B0%91%E3%81%97%E3%81%A0%E3%81%91/1564444109?i=1564444512&amp;uo=2&quot;&gt;もう少しだけ&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E3%82%82%E3%81%86%E5%B0%91%E3%81%97%E3%81%A0%E3%81%91-single/1564444109?uo=2&quot;&gt;もう少しだけ - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/yoasobi/1490256993?uo=2&quot;&gt;YOASOBI&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2021年5月10日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2021 YOASOBI&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2021-05-30T22:57:02-07:00</updated>
+				
+					<id im:id="1562163450">https://music.apple.com/jp/album/%E6%84%9B%E3%82%92%E7%9F%A5%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%AF/1562163449?i=1562163450&amp;uo=2</id>
+				
+					<title>愛を知るまでは - あいみょん</title>
+				
+					
+				
+					<im:name>愛を知るまでは</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E6%84%9B%E3%82%92%E7%9F%A5%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%AF/1562163449?i=1562163450&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/27/5c/4e/275c4e12-83b4-30d7-136b-a72e05ad5557/mzaf_1854183427100074041.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93/1165017710?uo=2">あいみょん</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is4-ssl.mzstatic.com/image/thumb/Music114/v4/d3/2e/60/d32e60cf-6025-f050-7f57-e121f508dfcf/190296705816.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/d3/2e/60/d32e60cf-6025-f050-7f57-e121f508dfcf/190296705816.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/d3/2e/60/d32e60cf-6025-f050-7f57-e121f508dfcf/190296705816.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2021 WARNER MUSIC JAPAN INC.</rights>
+				
+					<im:releaseDate label="2021年5月7日 ">2021-05-07T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>愛を知るまでは/桜が降る夜は - EP</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/till-i-know-what-love-is-im-never-gonna-die-on-cherry/1562163449?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E6%84%9B%E3%82%92%E7%9F%A5%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%AF/1562163449?i=1562163450&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;あいみょん - 愛を知るまでは アートワーク&quot; src=&quot;https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/d3/2e/60/d32e60cf-6025-f050-7f57-e121f508dfcf/190296705816.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E6%84%9B%E3%82%92%E7%9F%A5%E3%82%8B%E3%81%BE%E3%81%A7%E3%81%AF/1562163449?i=1562163450&amp;uo=2&quot;&gt;愛を知るまでは&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/till-i-know-what-love-is-im-never-gonna-die-on-cherry/1562163449?uo=2&quot;&gt;愛を知るまでは/桜が降る夜は - EP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/%E3%81%82%E3%81%84%E3%81%BF%E3%82%87%E3%82%93/1165017710?uo=2&quot;&gt;あいみょん&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2021年5月7日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2021 WARNER MUSIC JAPAN INC.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2021-05-30T22:57:02-07:00</updated>
+				
+					<id im:id="1564752145">https://music.apple.com/jp/album/%E3%81%8D%E3%82%89%E3%82%8A/1564752132?i=1564752145&amp;uo=2</id>
+				
+					<title>きらり - 藤井 風</title>
+				
+					
+				
+					<im:name>きらり</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E3%81%8D%E3%82%89%E3%82%8A/1564752132?i=1564752145&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/ea/ef/f1/eaeff19e-b5e9-4f10-cb99-b5de26b89413/mzaf_17254029662111553246.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=2">藤井 風</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is3-ssl.mzstatic.com/image/thumb/Music125/v4/75/a4/94/75a49480-b490-8c61-dc30-cd259bfbbc5f/21UMGIM23568.rgb.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/75/a4/94/75a49480-b490-8c61-dc30-cd259bfbbc5f/21UMGIM23568.rgb.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/75/a4/94/75a49480-b490-8c61-dc30-cd259bfbbc5f/21UMGIM23568.rgb.jpg/170x170bb.png</im:image>
+				
+					<rights>A UNIVERSAL SIGMA / HEHN RECORDS release; &#8471; 2021 UNIVERSAL MUSIC LLC</rights>
+				
+					<im:releaseDate label="2021年5月3日 ">2021-05-03T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>きらり - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/kirari-single/1564752132?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E3%81%8D%E3%82%89%E3%82%8A/1564752132?i=1564752145&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;藤井 風 - きらり アートワーク&quot; src=&quot;https://is4-ssl.mzstatic.com/image/thumb/Music125/v4/75/a4/94/75a49480-b490-8c61-dc30-cd259bfbbc5f/21UMGIM23568.rgb.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E3%81%8D%E3%82%89%E3%82%8A/1564752132?i=1564752145&amp;uo=2&quot;&gt;きらり&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/kirari-single/1564752132?uo=2&quot;&gt;きらり - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/%E8%97%A4%E4%BA%95-%E9%A2%A8/1486113150?uo=2&quot;&gt;藤井 風&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2021年5月3日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; A UNIVERSAL SIGMA / HEHN RECORDS release; ℗ 2021 UNIVERSAL MUSIC LLC&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2021-05-30T22:57:02-07:00</updated>
+				
+					<id im:id="1564408393">https://music.apple.com/jp/album/%E4%B8%8D%E6%80%9D%E8%AD%B0/1564408392?i=1564408393&amp;uo=2</id>
+				
+					<title>不思議 - 星野源</title>
+				
+					
+				
+					<im:name>不思議</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E4%B8%8D%E6%80%9D%E8%AD%B0/1564408392?i=1564408393&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="20" term="Alternative" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%AA%E3%83%AB%E3%82%BF%E3%83%8A%E3%83%86%E3%82%A3%E3%83%96/id20?uo=2" label="オルタナティブ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/c7/6e/ae/c76eae13-8daf-279d-2cea-ac0408c1ba02/mzaf_9150765621570642938.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/%E6%98%9F%E9%87%8E%E6%BA%90/269598403?uo=2">星野源</im:artist>
+				
+					<im:price amount="255.00000" currency="JPY">¥255</im:price>
+				
+					<im:image height="55">https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d4/a2/dd/d4a2dd87-85fb-867b-209d-04bba14e84cc/VEATP-38717.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is5-ssl.mzstatic.com/image/thumb/Music125/v4/d4/a2/dd/d4a2dd87-85fb-867b-209d-04bba14e84cc/VEATP-38717.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d4/a2/dd/d4a2dd87-85fb-867b-209d-04bba14e84cc/VEATP-38717.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; Victor Entertainment</rights>
+				
+					<im:releaseDate label="2021年4月27日 ">2021-04-27T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>不思議 - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/fushigi-single/1564408392?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E4%B8%8D%E6%80%9D%E8%AD%B0/1564408392?i=1564408393&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;星野源 - 不思議 アートワーク&quot; src=&quot;https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/d4/a2/dd/d4a2dd87-85fb-867b-209d-04bba14e84cc/VEATP-38717.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E4%B8%8D%E6%80%9D%E8%AD%B0/1564408392?i=1564408393&amp;uo=2&quot;&gt;不思議&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/fushigi-single/1564408392?uo=2&quot;&gt;不思議 - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/%E6%98%9F%E9%87%8E%E6%BA%90/269598403?uo=2&quot;&gt;星野源&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%AA%E3%83%AB%E3%82%BF%E3%83%8A%E3%83%86%E3%82%A3%E3%83%96/id20?uo=2&quot;&gt;オルタナティブ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥255
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2021年4月27日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ Victor Entertainment&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+	</feed>
