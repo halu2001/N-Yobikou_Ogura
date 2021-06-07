@@ -1,0 +1,14 @@
+extends layout
+
+block content
+  h3.my-3 todoの編集
+  form(method="post", action=`/todos/edit/${todo.todoId}`)
+    input(type="hidden" name="_csrf" value!=csrfToken)
+    div.fome-group
+      label(for="title") todo名
+      input(type="text" name="title" value=todo.title)#title.form-control
+    div.fome-group
+      label(for="description") 説明
+      textarea(name="description")#description.form-control #{todo.description}
+    div
+      button(type="submit").btn.btn-info 更新

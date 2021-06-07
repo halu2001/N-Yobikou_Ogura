@@ -1,0 +1,51 @@
+extends layout
+
+block content
+  div.jumbotron.my-3
+    h1.display-4 todo管理アプリ
+    p.lead ここでは作成したtodoを管理できます
+  if user
+      div
+        h3 新しいtodoを作成
+        form(method="post", action="/todos/new").my-3
+          input(type="hidden" name="_csrf" value!=csrfToken)
+          div.form-group
+          label(for="title") todo名
+          input(type="text" name="title")#title.form-control
+          label(for="description") 説明
+          textarea(name="description")#description.form-control
+          div.form-group
+          button(type="submit").btn.btn-info todoを作成
+          
+      - var hasTodo = todos.length > 0
+      - var testFlag = false 
+      if hasTodo 
+        h3.my-3 #{user.username}が作ったtodo一覧
+        table.table
+          tr
+            th 予定名
+            th 説明
+          each todo in todos
+            tr
+                td
+                  a(href=`/todos/${todo.todoId}`) #{todo.title}
+                td #{todo.description}
+            tr
+                form(action=`/todos/update/${todo.todoId}`, method="post")
+                  input(type="hidden" name="_csrf" value!=csrfToken)
+                  if todo.isFinish
+                    td 
+                      button(type="submit").btn.btn-secondary 戻す
+                  else 
+                    td 
+                      button(type="submit").btn.btn-success 完了にする
+                
+                form(action=`/todos/edit/${todo.todoId}`, method="get")
+                  input(type="hidden" name="_csrf" value!=csrfToken)
+                  td 
+                    button(type="submit").btn.btn-info 編集
+                    
+                form(action=`/todos/delete/${todo.todoId}`, method="post")
+                  input(type="hidden" name="_csrf" value!=csrfToken)
+                  td 
+                    button(type="submit").btn.btn-danger 削除
