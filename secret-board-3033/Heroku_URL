@@ -1,0 +1,15 @@
+Creating app... done, ⬢ immense-refuge-61839
+https://immense-refuge-61839.herokuapp.com/ | https://git.heroku.com/immense-refuge-61839.git
+
+Creating heroku-postgresql:hobby-dev on ⬢ immense-refuge-61839... ⣾
+(node:21867) SyntaxError Plugin: heroku: /home/vagrant/.local/share/heroku/config.json: Unexpected end of JSON input
+module: @oclif/config@1.17.0
+task: runHook prerun
+plugin: heroku
+root: /snap/heroku/4037
+Creating heroku-postgresql:hobby-dev on ⬢ immense-refuge-61839... free
+Database has been created and is available
+ ! This database is empty. If upgrading, you can transfer
+ ! data from another database with pg:copy
+Created postgresql-reticulated-60519 as DATABASE_URL
+Use heroku addons:docs heroku-postgresql to view documentation
